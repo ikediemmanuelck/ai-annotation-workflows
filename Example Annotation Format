@@ -1,0 +1,6 @@
+{
+  "prompt": "Explain blockchain technology.",
+  "response_quality": "HIGH",
+  "issues_found": ["minor simplification"],
+  "reviewer_notes": "Accurate explanation with strong clarity."
+}
